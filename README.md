@@ -1,6 +1,6 @@
 # Blog GraphQL
 
-Projet contenant un client (utilisation de React) et un serveur (express), ApolloServer & ApolloClient pour la prise en charge de GraphQL.
+Projet de blog sans session permettant l'ajout la suppression d'articles et un espace commentaires sur les articles !
 
 ## Structure
 
