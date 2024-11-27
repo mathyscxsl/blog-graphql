@@ -19,4 +19,4 @@ npm i
 npm run dev
 ```
 
-Il faut renseigner VITE_GRAPHQL_URL dans un fichier.env pour le client et DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT et PORT (4000 par défaut) dans un fichier.env pour le serveur
+Il faut renseigner VITE_GRAPHQL_URL dans un fichier.env pour le client et DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT et PORT (4000 par défaut) dans un fichier.env pour le serveur.
